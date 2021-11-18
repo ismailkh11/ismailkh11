@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Domain Verification</title>
+	<title> Verification</title>
 </head>
 <body>
  <h1>Domain Verification Exercise</h1>
